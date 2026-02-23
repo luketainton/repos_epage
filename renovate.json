@@ -10,11 +10,11 @@
   "rollbackPrs": true,
   "semanticCommits": "enabled",
   "semanticCommitScope": "deps",
-  "semanticCommitType": "feat",
+  "semanticCommitType": "build",
   "osvVulnerabilityAlerts": true,
   "dependencyDashboardOSVVulnerabilitySummary": "all",
   "vulnerabilityAlerts": {
-    "commitMessagePrefix": "[SECURITY] ",
+    "commitMessagePrefix": "build(security): ",
     "enabled": true,
     "labels": ["security"],
     "prCreation": "immediate"
