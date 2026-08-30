@@ -1,7 +1,3 @@
-#!/usr/local/bin/python3
-
-"""Send messages via the Pushover API."""
-
 import os
 
 import requests

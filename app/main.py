@@ -1,7 +1,3 @@
-#!/usr/local/bin/python3
-
-"""Main module."""
-
 import os
 
 from app.app import app, csrf

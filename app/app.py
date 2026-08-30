@@ -1,7 +1,3 @@
-#!/usr/local/bin/python3
-
-"""Flask web server."""
-
 from flask import Flask, render_template, request
 from flask_wtf.csrf import CSRFProtect
 

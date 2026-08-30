@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-"""Tests for app/send_page.py"""
-
 from app.send_page import send_page
 
 
